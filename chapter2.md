@@ -1,11 +1,11 @@
 # Cheatsheet 
 
-Latest React Router
+
+## Latest React Router
 
 ```npm install react-router@next```
 
-## Clone branch only
-
+Clone branch only
 
 ```git clone -b mybranch --single-branch git://sub.domain.com/repo.git```
 
