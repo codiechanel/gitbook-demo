@@ -34,4 +34,4 @@ Divides your child views evenly. So if you have two child views for example, eac
 ## space-between
 It will divide the container by the number of child views, and fill that space.
 ## alignSelf
-alignSelf works on the view itself not on its child views.
+alignSelf works on the view itself not on its child views. This is really useful, if each view would want to gravitate differently.
