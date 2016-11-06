@@ -2,13 +2,13 @@
 
 
 ## Latest React Router
-
-```npm install react-router@next```
-
-Clone branch only
-
-```git clone -b mybranch --single-branch git://sub.domain.com/repo.git```
-
+```
+npm install react-router@next
+```
+## Clone
+```
+git clone -b mybranch --single-branch git://sub.domain.com/repo.git
+```
 ## Connect Amazon
 ```javascript
 AWS.config.region = 'us-east-1'; // Region
