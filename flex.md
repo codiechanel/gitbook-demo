@@ -30,4 +30,6 @@ This property will depend on the FlexDirection. If you want your child views to 
 
 ## space-around
 
-Divides your child views evenly. So if you have two child views for example, one view will get 50% of the screen.
+Divides your child views evenly. So if you have two child views for example, each view will get 50% of the screen.
+## space-between
+It will divide the container by the number of child views, and fill that space.
