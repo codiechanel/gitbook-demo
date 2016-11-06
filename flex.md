@@ -33,3 +33,5 @@ This property will depend on the FlexDirection. If you want your child views to 
 Divides your child views evenly. So if you have two child views for example, each view will get 50% of the screen.
 ## space-between
 It will divide the container by the number of child views, and fill that space.
+## alignSelf
+alignSelf works on the view itself not on its child views.
