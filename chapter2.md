@@ -6,9 +6,11 @@
 npm install react-router@next
 ```
 ## Clone
-```
+```lang-sh
 git clone -b mybranch --single-branch git://sub.domain.com/repo.git
 ```
+
+{{gitbook.time}}
 ## Connect Amazon
 ```javascript
 AWS.config.region = 'us-east-1'; // Region
