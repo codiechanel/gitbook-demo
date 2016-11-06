@@ -31,3 +31,10 @@
     "webpack-dev-middleware": "^1.6.1",
     "webpack-hot-middleware": "^2.10.0"
     ```
+    
+### React dependency
+
+```
+     "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+    ```
