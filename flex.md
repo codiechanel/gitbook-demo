@@ -26,3 +26,8 @@ This property will depend on the FlexDirection. If you want your child views to 
 
  
  alignItems is very similiar to justifyContent, except that it works on the opposite axis.
+ 
+
+## space-around
+
+Divides your child views evenly. So if you have two child views for example, one view will get 50% of the screen.
