@@ -38,3 +38,10 @@
      "react": "^0.14.6",
     "react-dom": "^0.14.6"
     ```
+    
+    Your babelrc 
+  ```json
+  {
+  "presets": ["es2015", "stage-0", "react"]
+}
+```
