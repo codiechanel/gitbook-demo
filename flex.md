@@ -17,8 +17,12 @@ If your view is a container, you normally set ```flex: 1``` so you get all the r
 ## justifyContent
 
 
-This property will depend on the FlexDirection. If you want your child to start at the end, you can use:
+This property will depend on the FlexDirection. If you want your child views to gravitate towards the end, you can use:
 
 ```justifyContent: 'flex-end'```
  
- hgkk
+
+## alignItems
+
+ 
+ alignItems is very similiar to justifyContent, except that it works on the opposite axis.
