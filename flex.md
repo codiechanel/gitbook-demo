@@ -11,4 +11,14 @@ If FlexDirection is set to 'row', each child view will take up all vertical spac
 
 ## Consuming available space
 
-If your view is a container, you normally set ```flex: 1``` so you get all the remaining space. 
+If your view is a container, you normally set ```flex: 1``` so you get all the remaining space in both directions.
+
+
+## justifyContent
+
+
+This property will depend on the FlexDirection. If you want your child to start at the end, you can use:
+
+```justifyContent: 'flex-end'```
+ 
+ hgkk
