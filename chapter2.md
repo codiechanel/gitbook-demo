@@ -10,7 +10,8 @@ npm install react-router@next
 git clone -b mybranch --single-branch git://sub.domain.com/repo.git
 ```
 <pre><code class="lang-sh">
-{{ gitbook.version }}
+{{book.ver}}
+{{gitbook.version}}
 </pre></code>
 ## Connect Amazon
 ```javascript
