@@ -34,7 +34,7 @@ Divides your child views evenly. So if you have two child views for example, eac
 ## space-between
 It will divide the container by the number of child views, and fill that space.
 ## alignSelf
-This is basically an override for the settings used by the parent view.
+This is basically an override for the settings used by the parent view. ```Stretch``` is the default.
 ```AlignSelf``` works on the view itself not on its child views. This is really useful, if each view would want to gravitate differently.
 ```
 alignSelf: 'baseline'
@@ -42,6 +42,6 @@ alignSelf: 'baseline'
 
 The view will no longer take up the remaining space, but instead will be contrained based on its content 
 ```
-auto and stretch
+auto
 ```
-I still need to do some test for these two properties.
+I still need to do some test for this
