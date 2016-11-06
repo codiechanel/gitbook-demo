@@ -9,6 +9,6 @@ Each child would then take up the entire row if width is not specified.
 If FlexDirection is set to 'row', each child view will take up all vertical space.
 
 
-## Consuming the available space
+## Consuming available space
 
 If your view is a container, you normally set ```flex: 1``` so you get all the remaining space. 
