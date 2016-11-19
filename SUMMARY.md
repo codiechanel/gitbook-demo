@@ -6,5 +6,5 @@
 * [Third Chapter](javascript/README.md)
 * [Flex](flex.md)
 * [React](react.md)
-* Tips
+* [Tips](tips.md)
 
