@@ -3,7 +3,7 @@
 vsFtp server 
 
 ```
-sudo vi /etc/vsftpd/vsftpd.conf
+sudo nano /etc/vsftpd.conf
 anonymous_enable=NO
 pasv_enable=YES
 pasv_min_port=1024
